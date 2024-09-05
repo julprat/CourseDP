@@ -5,6 +5,3 @@ format: jb-book
 root: intro
 chapters:
 - file: Recursive_Problem
-- file: markdown
-- file: notebooks
-#- file: markdown-notebooks
